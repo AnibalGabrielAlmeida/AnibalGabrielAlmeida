@@ -1,29 +1,29 @@
-# Hi, I'm Gabriel Almeida 👋
+# Gabriel Almeida
 
-Backend developer specialized in Java and Spring Boot, with fullstack experience building REST APIs, interactive web apps, and production-ready landing pages.
+Backend developer working with Node.js/Express and Java/Spring Boot.
+Computer Science graduate (Universidad Siglo 21, Argentina). Based in Posadas, open to remote work.
 
-Recently graduated with a Bachelor's degree in Computer Science from Universidad Siglo 21 (Argentina).
+I currently maintain a clinical laboratory management system in daily production use,
+built with Node, Express and PostgreSQL — patient records, medical orders, results,
+billing and PDF reporting, replacing a 15-year-old legacy system.
 
-## 🔧 Tech Stack
+## Tech
 
-- **Backend:** Java, Spring Boot, REST APIs, Microservices
-- **Databases:** MySQL, MongoDB, SQL
-- **Frontend:** Astro, JavaScript, HTML, CSS, Tailwind
-- **Other:** Python, Leaflet, Git
+- **Backend:** Node.js, Express, Java, Spring Boot, REST APIs, JWT auth
+- **Databases:** PostgreSQL (relational modeling, JSONB, migrations), MySQL, SQL Server, MongoDB
+- **Frontend:** React, TypeScript, Astro, Tailwind CSS, Vite
+- **Tools:** Git, Maven, IntelliJ IDEA, VS Code
 
-## 🚀 Projects
+## Projects
 
-- **[Roomy Expense Tracker](https://github.com/AnibalGabrielAlmeida/RoomyExpenseTracker)** — Fullstack expense tracking app built with Java, Spring Boot, and Astro
-- **[ElectroStore Microservices](https://github.com/AnibalGabrielAlmeida/ElectroStoreMicroservices)** — E-commerce backend with microservices architecture using Spring Cloud
-- **[Musical Timeline (TFG)](https://github.com/AnibalGabrielAlmeida/tfg)** — Web app with drag & drop, chord bank, and a Markov chain recommendation engine
-- **[El Palenque — Interactive Map](https://github.com/AnibalGabrielAlmeida/mapaInteractivo)** — Interactive map for an urban development project using Leaflet
+- **[ChordFlow — Harmonic Progressions Platform](https://github.com/AnibalGabrielAlmeida/tfg)** — my thesis project. A recommendation engine that blends per-style Markov chains, music-theory rules and voice-leading cost to suggest the next chord in a progression. React + TypeScript + Tone.js on the front, Node/Express/PostgreSQL on the back. [Live demo](https://tfg-plataforma-interactiva-armonica.netlify.app/)
+- **[Roomy Expense Tracker](https://github.com/AnibalGabrielAlmeida/RoomyExpenseTracker)** — Java REST API for household expense management, with secure authentication and full CRUD. Spring Boot + MySQL, Astro front end.
+- **[El Palenque — Interactive Map](https://github.com/AnibalGabrielAlmeida/mapaInteractivo)** — interactive map for a real estate development, with custom markers and photo-backed points of interest. Built for a real client. [Live site](https://intmap.netlify.app/)
 
-## 🌎 Languages
+## Languages
 
-- Spanish (native)
-- English (advanced — C2 EFSET)
+Spanish (native) · English (C2, EFSET 87/100)
 
-## 📬 Contact
+## Contact
 
-- [Portfolio](https://portfoliogabr.netlify.app/en)
-- [LinkedIn](https://linkedin.com/in/gabriel-almeida-5916a1284)
+[Portfolio](https://portfoliogabr.netlify.app/en) · [LinkedIn](https://www.linkedin.com/in/gabriel-almeida-5916a1284) · almeida.g.dev@gmail.com
